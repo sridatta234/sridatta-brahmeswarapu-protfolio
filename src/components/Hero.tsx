@@ -39,9 +39,9 @@ const Hero = () => {
           </p>
 
           <div className="flex flex-wrap justify-center gap-4 text-muted-foreground">
-            <a href="mailto:sridatta234@gmail.com" className="flex items-center gap-2 hover:text-primary transition-colors">
+            <a href="mailto:sridattabrahmeswarapu@gmail.com" className="flex items-center gap-2 hover:text-primary transition-colors">
               <Mail size={18} />
-              <span className="hidden sm:inline">sridatta234@gmail.com</span>
+              <span className="hidden sm:inline">sridattabrahmeswarapu@gmail.com</span>
             </a>
             <a href="tel:+15722057791" className="flex items-center gap-2 hover:text-primary transition-colors">
               <Phone size={18} />
@@ -73,7 +73,7 @@ const Hero = () => {
 
           <div className="flex justify-center gap-6 pt-8">
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/sridatta-brahmeswarapu-503784168/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -82,7 +82,7 @@ const Hero = () => {
               <Linkedin size={28} />
             </a>
             <a 
-              href="https://github.com" 
+              href="https://github.com/sridatta234?tab=repositories" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"

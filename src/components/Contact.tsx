@@ -18,7 +18,7 @@ const Contact = () => {
 
             <div className="grid md:grid-cols-2 gap-6 mb-10">
               <a 
-                href="mailto:sridatta234@gmail.com"
+                href="mailto:sridattabrahmeswarapu@gmail.com"
                 className="flex items-center gap-4 p-6 bg-muted/50 rounded-xl hover:bg-muted transition-all duration-300 group border border-transparent hover:border-primary"
               >
                 <div className="w-12 h-12 bg-gradient-primary rounded-xl flex items-center justify-center group-hover:shadow-glow transition-all">
@@ -26,7 +26,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Email</p>
-                  <p className="font-semibold text-foreground">sridatta234@gmail.com</p>
+                  <p className="font-semibold text-foreground">sridattabrahmeswarapu@gmail.com</p>
                 </div>
               </a>
 
@@ -55,7 +55,7 @@ const Contact = () => {
 
               <div className="flex gap-4 p-6 bg-muted/50 rounded-xl border border-border">
                 <a 
-                  href="https://linkedin.com" 
+                  href="https://www.linkedin.com/in/sridatta-brahmeswarapu-503784168/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex-1 flex items-center justify-center gap-3 py-3 bg-card rounded-lg hover:bg-primary/10 hover:border-primary border border-transparent transition-all duration-300 group"
@@ -64,7 +64,7 @@ const Contact = () => {
                   <span className="font-medium text-foreground">LinkedIn</span>
                 </a>
                 <a 
-                  href="https://github.com" 
+                  href="https://github.com/sridatta234?tab=repositories" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex-1 flex items-center justify-center gap-3 py-3 bg-card rounded-lg hover:bg-primary/10 hover:border-primary border border-transparent transition-all duration-300 group"
@@ -81,7 +81,7 @@ const Contact = () => {
                 className="bg-gradient-primary hover:shadow-glow transition-all duration-300 px-12"
                 asChild
               >
-                <a href="mailto:sridatta234@gmail.com">Send Email</a>
+                <a href="mailto:sridattabrahmeswarapu@gmail.com">Send Email</a>
               </Button>
             </div>
           </div>

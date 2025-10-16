@@ -5,16 +5,16 @@ import { ExternalLink, Github } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
-      title: "Advanced SQL Data Generation and Management Tool",
+      title: "Agentic AI SQL Query Generator",
       period: "2024",
-      description: "Engineered an intelligent SQL automation suite enabling CREATE, INSERT, SELECT, DELETE, and UPDATE operations for 100K+ records.",
-      technologies: ["Python", "SQL", "Flask", "PostgreSQL"],
+      description: "Engineered an intelligent agentic AI system that autonomously generates, validates, and executes SQL operations for 100K+ records.",
+      technologies: ["Python", "SQL", "Flask", "PostgreSQL", "Agentic AI"],
       highlights: [
-        "Designed a Flask-based GUI and CLI tool that auto-generates and validates relational schemas",
+        "Designed a Flask-based GUI and CLI tool with AI agents that auto-generate and validate relational schemas",
         "Integrated PostgreSQL APIs for large-scale data loading, achieving 90% reduction in database setup time",
         "Implemented data profiling and validation modules ensuring schema consistency"
       ],
-      githubLink: "#"
+      githubLink: "https://github.com/sridatta234/AGENTIC-AI-SQL-QUERY-GENERATOR"
     },
     {
       title: "Predicting Operator Market Entry/Exit Using News Data",
@@ -26,7 +26,7 @@ const Projects = () => {
         "Built visualization dashboards in Plotly to display operator entry/exit probability trends in real time",
         "Deployed model via REST API for integration into business dashboards, reducing manual analysis time by 70%"
       ],
-      githubLink: "#"
+      githubLink: "https://github.com/sridatta234/ML-Predicting-Operator-Market-Entry-Exit-Using-News-Data"
     },
     {
       title: "Fog Computing for Industrial IoT Monitoring",

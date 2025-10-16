@@ -6,8 +6,8 @@ const Skills = () => {
       color: "primary"
     },
     {
-      title: "Machine Learning",
-      skills: ["TensorFlow", "PyTorch", "Scikit-learn", "NLP", "BERT", "Time-Series Forecasting"],
+      title: "Machine Learning & AI",
+      skills: ["TensorFlow", "PyTorch", "Scikit-learn", "NLP", "BERT", "Time-Series Forecasting", "LangChain", "LangGraph", "Prompt Engineering", "Fine Tuning", "RAG", "Agentic AI"],
       color: "secondary"
     },
     {
